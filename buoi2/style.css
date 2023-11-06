@@ -1,0 +1,20 @@
+/* .container container mt-3 {
+  background-color: rgb(0, 0, 0);
+}
+form {
+  background-color: burlywood;
+  display: block;
+
+  margin: 20px;
+  border-radius: 10px;
+}
+.form-group {
+  background-color: burlywood;
+  display: block;
+  margin: 20px;
+} */
+.form-style {
+  font-family: "Poppins", sans-serif;
+  padding: 20px;
+  background: #f4f4f4;
+}
